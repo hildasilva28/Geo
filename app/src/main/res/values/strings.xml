@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">geo</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!!!</string>
+    <string name="incorrect_toast">Incorrecto!!!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="previous_button">Anterior</string>
+
+
+    <string name="question_guayaquil">Guayaquil es la ciudad del Ecuador con mas habitantes</string>
+    <string name="question_capital">Cuenca es la capital del Ecuador </string>
+    <string name="question_manta">Manta esta localizada en la provincia de Manabi </string>
+    <string name="question_volcan">El volvan Cotopaxi esta ubicado en la provincia de Pichincha </string>
+</resources>
